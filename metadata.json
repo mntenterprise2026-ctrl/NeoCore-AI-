@@ -1,0 +1,6 @@
+{
+  "name": "NeoCore AI",
+  "description": "A futuristic white Liquid Glass assistant named NeoCore AI, offering West Bengal cultural expertise, traditional art generation, search logs, and voice settings. Created by Mahefuz Mondal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
